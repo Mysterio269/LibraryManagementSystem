@@ -1,3 +1,4 @@
+;
 public class Inventory {
     static int numberOfBooks = 0;
     Book[] books = new Book[0];
